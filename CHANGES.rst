@@ -2,7 +2,13 @@
  Changes
 =========
 
-8.1 (unreleased)
+8.2 (unreleased)
+================
+
+- Nothing changed yet.
+
+
+8.1 (2025-10-26)
 ================
 
 - Remove unnecessary ``setuptools`` runtime dependency.
